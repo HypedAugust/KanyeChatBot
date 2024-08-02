@@ -1,6 +1,4 @@
-Sure, here's a professional and visually appealing README for your project, incorporating emojis and decorations:
 
----
 
 # 🎤 Welcome to My [Everything About Kanye] Chat Bot 🎤
 
