@@ -36,10 +36,3 @@ To run this project locally, ensure to apply your own API key in the environment
 ---
 
 🌟 **Enjoy the Chat Bot and dive into the world of Kanye West!** 🌟
-
----
-
-Feel free to ask any questions or provide feedback. Happy chatting!
-
----
-
